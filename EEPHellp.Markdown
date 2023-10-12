@@ -1,4 +1,4 @@
-@[TOC](EEPJS-前端导出Excel的Script库)
+EEPJS-前端导出Excel的Script库
 
 # EEPJS简介
 基于[**xlsx.js**](https://github.com/exceljs/exceljs/blob/master/README_zh.md) v3.8.2
